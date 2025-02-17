@@ -21,6 +21,7 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
+[account_invoice_fiscal_position_update](account_invoice_fiscal_position_update/) | 18.0.1.0.0 | [![alexis-via](https://github.com/alexis-via.png?size=30px)](https://github.com/alexis-via) | Changing the fiscal position of an invoice will auto-update invoice lines
 [account_invoice_refund_link](account_invoice_refund_link/) | 18.0.1.0.0 |  | Show links between refunds and their originator invoices.
 
 [//]: # (end addons)
